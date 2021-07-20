@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nabajyoti.LAB-VM\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nabajyoti.LAB-VM\\.nuget\\packages"
+    ]
+  }
+}
